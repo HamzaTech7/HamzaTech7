@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hamza Bourchid | HamzaTech7
 
-<!--
-**HamzaTech7/HamzaTech7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Web Application Security Researcher | Bug Bounty Hunter
 
-Here are some ideas to get you started:
+🔍 Active on HackerOne
+🎯 Focus: API Security, IDOR, Privilege Escalation
+📍 Based in Morocco | Working with US & UK companies
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Recent Work
+- Critical vulnerabilities reported to Notion Labs, Inc.
+- Findings include unauthorized workspace access 
+  and full data exfiltration via API authorization flaws
+
+## Skills
+- Web Application Penetration Testing
+- Burp Suite | OWASP Methodology  
+- API Security Testing
+- Completed PortSwigger Web Security Academy
+
+## Connect
+- HackerOne: hamzatech7
+- LinkedIn: Hamza Bourchid
