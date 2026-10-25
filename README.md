@@ -1,22 +1,19 @@
-# Hamza Bourchid | HamzaTech7
+# Hi, I'm Hamza (HamzaTech7)
 
-Web Application Security Researcher | Bug Bounty Hunter
+Cybersecurity student in Casablanca, Morocco, specializing in web application security — currently finishing a Digital Infrastructure / Cybersecurity program.
 
-🔍 Active on HackerOne
-🎯 Focus: API Security, IDOR, Privilege Escalation
-📍 Based in Morocco | Working with US & UK companies
+I focus on **broken access control**: IDOR, privilege escalation, and authorization flaws. I use AI tooling to triage and prioritize HTTP requests faster, then do the actual exploitation — parameter manipulation, ID switching, cross-account access testing, session comparison — manually.
 
-## Recent Work
-- Critical vulnerabilities reported to Notion Labs, Inc.
-- Findings include unauthorized workspace access 
-  and full data exfiltration via API authorization flaws
+## What I'm doing right now
+- Completed PortSwigger Web Security Academy: SQL Injection (full), Cross-Site Scripting (Apprentice + Practitioner)
+- Building out manual testing tooling in Python (see [redtools](https://github.com/HamzaTech7/redtools))
+- Writing up findings and methodology as I go (see [bug-bounty-writeups](https://github.com/HamzaTech7/bug-bounty-writeups))
+- Working through Hack The Box's Starting Point track
 
-## Skills
-- Web Application Penetration Testing
-- Burp Suite | OWASP Methodology  
-- API Security Testing
-- Completed PortSwigger Web Security Academy
+## Stack
+Burp Suite · Python · OWASP methodology · Kali Linux
 
-## Connect
-- HackerOne: hamzatech7
-- LinkedIn: Hamza Bourchid
+## Elsewhere
+- LinkedIn: [Hamza Bourchid](https://www.linkedin.com/in/hamza-bourchid-84b1753a9/)
+
+Open to remote web app security work.
