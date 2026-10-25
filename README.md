@@ -1,8 +1,8 @@
 # Hi, I'm Hamza (HamzaTech7)
 
-Cybersecurity student in Casablanca, Morocco, specializing in web application security — currently finishing a Digital Infrastructure / Cybersecurity program.
+Cybersecurity student in Casablanca, Morocco, specializing in web application security currently finishing a Digital Infrastructure / Cybersecurity program.
 
-I focus on **broken access control**: IDOR, privilege escalation, and authorization flaws. I use AI tooling to triage and prioritize HTTP requests faster, then do the actual exploitation — parameter manipulation, ID switching, cross-account access testing, session comparison — manually.
+I focus on **broken access control**: IDOR, privilege escalation, and authorization flaws. I use AI tooling to triage and prioritize HTTP requests faster, then do the actual exploitation, parameter manipulation, ID switching, cross-account access testing, session comparison, manually.
 
 ## What I'm doing right now
 - Completed PortSwigger Web Security Academy: SQL Injection (full), Cross-Site Scripting (Apprentice + Practitioner)
